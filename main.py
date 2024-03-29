@@ -27,8 +27,8 @@ print(f"{fore.BLUE}Initialized constants.")
 
 # Global Variables #
 
-term_dir = "Who the fuck knows?" # These two are also fallbacks.
-user = "Huh?"
+term_dir = "Who knows?" # These two are also fallbacks.
+user = "User??"
 password = ""
 
 conf_file_loc = os.path.join(located, "CopperShell.cfg")
